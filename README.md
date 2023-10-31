@@ -8,6 +8,16 @@ I made this project to practice and showcase my nodejs + expressjs skills. This 
 5. User can do full CRUD operations on campgrounds.
 6. Users can review and rate other campgrounds.
 
+## Tech Stack Used
+
+- Nodejs
+- Expressjs
+- MongoDB
+- EJS(Templating Language)
+- Mapbox
+- Passport.js
+- Bootstrap
+
 ## How to Run
 
 1. Fork this repository and clone it on your local machine.
